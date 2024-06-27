@@ -1,0 +1,20 @@
+{
+  "BCHUSDT": "Bitcoin Cash",
+  "BTCUSDT": "Bitcoin",
+  "ETHUSDT": "Ethereum",
+  "LTCUSDT": "Litecoin",
+  "XRPUSDT": "Ripple",
+  "BNBUSDT": "Binance Coin",
+  "ADAUSDT": "Cardano",
+  "LINKUSDT": "Chainlink",
+  "DOTUSDT": "Polkadot",
+  "UNIUSDT": "Uniswap",
+  "XLMUSDT": "Stellar",
+  "DOGEUSDT": "Dogecoin",
+  "AAVEUSDT": "Aave",
+  "ATOMUSDT": "Cosmos",
+  "AVAXUSDT": "Avalanche",
+  "BANDUSDT": "Band Protocol",
+  "BATUSDT": "Basic Attention Token",
+  "FILUSDT": "Filecoin"
+}
