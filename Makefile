@@ -1,4 +1,4 @@
 .PHONY: docker
 
-docker:
-	docker-compose up -d
+run:
+	docker compose up -d
